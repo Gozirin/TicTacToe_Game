@@ -1,0 +1,23 @@
+pluginManagement {
+    repositories {
+        gradlePluginPortal()
+        google()
+        mavenCentral()
+    }
+}
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        mavenCentral()
+    }
+}
+rootProject.name = "JavaAnimation"
+include ':app'
+include ':alertdialogue-java'
+include ':bluetoothfinder_java'
+include ':javaaudioapp'
+include ':javavideoapp'
+include ':tictactoe-java'
+include ':android-wear'
+include ':appguess_java'

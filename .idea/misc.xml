@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="alertdialogue-java/src/main/res/layout/activity_main.xml" value="0.3098958333333333" />
+        <entry key="alertdialogue-java/src/main/res/menu/main_menu.xml" value="0.3098958333333333" />
+        <entry key="android-wear/src/main/res/layout/activity_main2.xml" value="0.9515418502202643" />
+        <entry key="android-wear/src/main/res/layout/my_watch_face.xml" value="0.45" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.29583333333333334" />
+        <entry key="appguess_java/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="bluetoothfinder_java/src/main/res/layout/activity_main.xml" value="0.3098958333333333" />
+        <entry key="javaaudioapp/src/main/res/drawable/ic_pause.xml" value="0.1" />
+        <entry key="javaaudioapp/src/main/res/drawable/ic_play.xml" value="0.1" />
+        <entry key="javaaudioapp/src/main/res/layout/activity_main.xml" value="0.3098958333333333" />
+        <entry key="javavideoapp/src/main/res/layout/activity_main.xml" value="0.3098958333333333" />
+        <entry key="tictactoe-java/src/main/res/layout/activity_main.xml" value="0.3098958333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
